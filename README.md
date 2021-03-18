@@ -16,6 +16,7 @@ Python offers various types of these methods. These are crucial to becoming an e
  
 
 Types of Methods in Python
+
 There are basically three types of methods in Python:
 
 Instance Method
